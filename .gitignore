@@ -1,5 +1,8 @@
-*.txt
 
 *.log
 
 *.json
+
+testingjson.py
+
+/log

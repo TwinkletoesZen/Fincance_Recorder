@@ -1,0 +1,9 @@
+Here are the following Commands:
+(Not Case Sensitive)
+
+1. WriteData
+    - Write the Existing Data
+2. Help/Man
+    - print Manual
+3. Exit/Quit/Break/Stop
+    - Quits the Program
